@@ -18,16 +18,16 @@ useEffect(() => {
 
 return (
     <div >
-        <h3>Liste des Utilisateurs</h3>
+        <h3>Users List</h3>
         <table>
             <thead>
                 <tr>
                     <th>ID</th>
-                    <th>Nom</th>
-                    <th>Adresse</th>
+                    <th>Number</th>
+                    <th>Address</th>
                     <th>Email</th>
-                    <th>Téléphone</th>
-                    <th>Site Web</th>
+                    <th>Phone Number</th>
+                    <th>Web site</th>
                 </tr>
             </thead>
             <tbody>
